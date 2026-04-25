@@ -1,1 +1,1 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=cthulhu-F&theme=radical)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
